@@ -3,5 +3,5 @@ PRAKTIKUM 9
 
 A prime number is an integer greater than 1 and divisible by only itselft and 1
 
-![Uploading image.png…]()
 
+![image](https://user-images.githubusercontent.com/116345854/209420714-8934db4a-e378-4ef2-a7fb-7a74230c20b1.png)
